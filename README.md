@@ -3,7 +3,7 @@
 - I am working as an Undergraduate Research Assistant in the Department of Computer Science and the Department of Biological Sceinces at Missouri S&T.
 - I have previously worked as a NSF-REU research Intern Summer 2024, and as a web developer at Infosoft Systems Inc. Summer 2023. 
 
-C++ | Python | Java
+C++ | Python | Java | Javascript
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patel-yug/) 
 [![PortfolioWebsite]( https://img.shields.io/badge/Portfolio_Website-yellow)](https://pateyu.com)
