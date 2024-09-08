@@ -22,7 +22,7 @@ C++ | Python | Java
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux (Debian/Ubuntu/Fedora)](https://img.shields.io/badge/Linux%20(Debian%20&%20Ubuntu)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux%20-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ---
