@@ -16,7 +16,6 @@ C++ | Python | Java
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -24,8 +23,8 @@ C++ | Python | Java
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux (Debian & Ubuntu)](https://img.shields.io/badge/Linux%20(Debian%20&%20Ubuntu)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux (Debian/Ubuntu/Fedora)](https://img.shields.io/badge/Linux%20(Debian%20&%20Ubuntu)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nikunjpradhan31&icon=0&color=0)](https://visitcount.itsvg.in)
+
