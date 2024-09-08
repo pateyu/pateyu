@@ -1,5 +1,7 @@
 ## 💫 About Me:
-- I am looking for a Software Engineering / Full Stack Developer Internship that will refine my problem-solving skills, demostrate my ablity to work with others, and test my skills in developing quality applications and programs
+- I am looking for a Software Engineering / Data Science Internship for Summer 2025.
+- I am working as an Undergraduate Research Assistant in the Department of Computer Science and the Department of Biological Sceinces at Missouri S&T.
+- I have previously worked as a NSF-REU research Intern Summer 2024, and as a web developer at Infosoft Systems Inc. Summer 2023. 
 
 C++ | Python | Java
 ## 🌐 Socials:
