@@ -1,11 +1,10 @@
 ## 💫 About Me:
 - I am looking for a Software Engineering / Full Stack Developer Internship that will refine my problem-solving skills, demostrate my ablity to work with others, and test my skills in developing quality applications and programs
-- I am developing a web application for secure web messaging using Node.js, Mongoose, and React
-- Exploring the intricacies of Deep Learning in Computer Vision
+
 C++ | Python | Java
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikunj-pradhan/) 
-[![PortfolioWebsite]( https://img.shields.io/badge/Portfolio_Website-yellow)](https://nikunjpradhan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patel-yug/) 
+[![PortfolioWebsite]( https://img.shields.io/badge/Portfolio_Website-yellow)](https://pateyu.com)
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
